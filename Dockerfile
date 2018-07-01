@@ -1,3 +1,3 @@
 from busybox
-cmd ["echo", "Hello GIT"]
+cmd ["echo", "Hello world"]
 
